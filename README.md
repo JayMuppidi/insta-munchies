@@ -4,7 +4,7 @@
 
 This repository contains our DNA (Data and Applications) group project made in my second year (November 2022).
 
-The project is a command line interface for a food delivery service. It is written in Python and uses SQLite3 as the database.
+The project is a command line interface for a food delivery service that models users, resturants, orders, drivers, coupons, dishes, and ratings among many others. It is written in Python and uses SQLite3 as the database.
 
 # Project Phase 4
 ## Jay Muppidi, Sriya Venepally, Ronak Dhingra
